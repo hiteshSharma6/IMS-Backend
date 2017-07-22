@@ -1,0 +1,2 @@
+It contains only interfaces that can be used as
+marker interface or as methods that had to be overridden/defined.
