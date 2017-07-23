@@ -1,4 +1,4 @@
-package com.bmpl.ims.commondao.utils;
+package com.bmpl.ims.common.utils;
 
 public class LoginUtil {
 

@@ -1,5 +1,5 @@
-package com.bmpl.ims.administration.attendance;
+package com.bmpl.ims.administration.dao;
 
-public class StudentAttendanceReport {
+public class AttendanceDao {
 
 }

@@ -1,5 +1,5 @@
-package com.bmpl.ims.management.batch;
+package com.bmpl.ims.management.dto;
 
-public class Batch {
+public class BatchDto {
 
 }

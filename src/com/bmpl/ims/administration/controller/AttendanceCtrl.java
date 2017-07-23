@@ -1,5 +1,5 @@
-package com.bmpl.ims.administration.attendance;
+package com.bmpl.ims.administration.controller;
 
-public class EmployeeAttendance {
+public class AttendanceCtrl {
 
 }

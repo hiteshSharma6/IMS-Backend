@@ -1,5 +1,5 @@
-package com.bmpl.ims.management.batch;
+package com.bmpl.ims.management.controller;
 
-public class BatchReport {
+public class BatchCtrl {
 
 }

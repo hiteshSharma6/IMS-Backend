@@ -1,4 +1,4 @@
-package com.bmpl.ims.commondao.connection;
+package com.bmpl.ims.common.connection;
 
 public class CreateConn {
 

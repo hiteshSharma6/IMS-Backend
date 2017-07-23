@@ -1,5 +1,5 @@
-package com.bmpl.ims.management.enquiry;
+package com.bmpl.ims.management.dto;
 
-public class EnquiryDetails {
+public class EnquiryDto {
 
 }

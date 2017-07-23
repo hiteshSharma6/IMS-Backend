@@ -1,5 +1,5 @@
-package com.bmpl.ims.management.course;
+package com.bmpl.ims.management.dao;
 
-public class CourseReport {
+public class CourseDao {
 
 }

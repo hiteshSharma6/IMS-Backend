@@ -1,5 +1,5 @@
-package com.bmpl.ims.accounts.expense;
+package com.bmpl.ims.accounts.dao;
 
-public class ExpenseReport {
+public class ExpenseDao {
 
 }

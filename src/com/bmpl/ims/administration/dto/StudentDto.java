@@ -1,5 +1,5 @@
-package com.bmpl.ims.administration.student;
+package com.bmpl.ims.administration.dto;
 
-public class Student {
+public class StudentDto {
 
 }

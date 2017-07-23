@@ -1,5 +1,5 @@
-package com.bmpl.ims.accounts.transactions;
+package com.bmpl.ims.accounts.dao;
 
-public class TransactionReport {
+public class TransactionDao {
 
 }

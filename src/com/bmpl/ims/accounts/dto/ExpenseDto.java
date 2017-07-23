@@ -1,5 +1,5 @@
-package com.bmpl.ims.accounts.expense;
+package com.bmpl.ims.accounts.dto;
 
-public class Expense {
+public class ExpenseDto {
 
 }

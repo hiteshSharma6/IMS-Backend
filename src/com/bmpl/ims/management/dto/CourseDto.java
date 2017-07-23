@@ -1,5 +1,5 @@
-package com.bmpl.ims.management.course;
+package com.bmpl.ims.management.dto;
 
-public class Course {
+public class CourseDto {
 
 }

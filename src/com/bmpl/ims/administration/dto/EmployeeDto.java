@@ -1,5 +1,5 @@
-package com.bmpl.ims.administration.employee;
+package com.bmpl.ims.administration.dto;
 
-public class Employee {
+public class EmployeeDto {
 
 }

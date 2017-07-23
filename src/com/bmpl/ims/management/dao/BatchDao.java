@@ -1,5 +1,5 @@
-package com.bmpl.ims.management.batch;
+package com.bmpl.ims.management.dao;
 
-public class BatchReport {
+public class BatchDao {
 
 }

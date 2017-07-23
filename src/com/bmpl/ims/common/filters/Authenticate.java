@@ -1,4 +1,4 @@
-package com.bmpl.ims.commondao.filters;
+package com.bmpl.ims.common.filters;
 
 public class Authenticate {
 
